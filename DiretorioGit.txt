@@ -1,0 +1,10 @@
+1 - git config --global user.name "RogerioCS2"
+2 - git config --global user.email "tecnologia.rogerio@gmail.com"
+3 - git init
+4 - git status
+5 - git add .
+6 - Criar diretório no github
+7 - git remote add origin https://github.com/RogerioCS2/testeProjeto.git
+8 - git branch -M main
+9 - git push -u origin main
+
