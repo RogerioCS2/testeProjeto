@@ -1,0 +1,9 @@
+igo01","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Player/Bomba.yy","order":3,"resourceVersion":"1.0","name":"Bomba","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Player/Chamas.yy","order":2,"resourceVersion":"1.0","name":"Chamas","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/ItensJogo.yy","order":4,"resourceVersion":"1.0","name":"ItensJogo","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/ItensJogo.yy","order":14,"resourceVersion":"1.0","name":"ItensJogo","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Menu.yy","order":5,"resourceVersion":"1.0","name":"Menu","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Menu.yy","order":7,"resourceVersion":"1.0","name":"Menu","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Inimigos/Inimigo02.yy","order":3,"resourceVersion":"1.0","name":"Inimigo02","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Inimigos/Inimigo03.yy","order":4,"re

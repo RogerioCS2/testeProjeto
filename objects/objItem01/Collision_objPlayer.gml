@@ -1,0 +1,2 @@
+totalBombas++;
+instance_destroy();

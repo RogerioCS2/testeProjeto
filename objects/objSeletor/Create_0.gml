@@ -1,0 +1,2 @@
+direita = false;
+esquerda = true;

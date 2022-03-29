@@ -1,0 +1,2 @@
+explosaoBomba++;
+instance_destroy();

@@ -1,0 +1,1 @@
+totalPontos += 100;

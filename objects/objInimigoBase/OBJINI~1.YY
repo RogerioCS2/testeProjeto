@@ -1,0 +1,35 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 511,
+  "bbox_top": 0,
+  "bbox_bottom": 575,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 512,
+  "height": 576,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"149dc5a7-d2e3-434d-9f04-881b5e9e2834","path":"sprites/sprCaminhoDanoso/sprCaminhoDanoso.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"149dc5a7-d2e3-434d-9f04-881b5e9e2834","path":"sprites/sprCaminhoDanoso/sprCaminhoDanoso.yy",},"LayerId":{"name":"4be0eedc-2135-4f76-bd40-d0ae6185bf49","path":"sprites/sprCaminhoDanoso/sprCaminhoDanoso.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sprCaminhoDanoso","path":"sprites/sprCaminhoDanoso/sprCaminhoDanoso.yy",},"resourceVersion":"1.0","name":"149dc5a7-d2e3-434d-9f04-881b5e9e2834","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"sprCaminhoDanoso","path":"sprites/sprCaminhoDanoso/sprCaminhoDanoso.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 30

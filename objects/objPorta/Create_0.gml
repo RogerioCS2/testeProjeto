@@ -1,0 +1,2 @@
+globalvar portaAberta;
+globalvar transicaoAberta;
